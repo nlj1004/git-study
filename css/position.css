@@ -25,7 +25,7 @@ a{
     color: rgb(141, 228, 228);
 }
 .box{
-    background-color: lime;
+    background-color: darkgreen;
     width: 500px;
     height: 300px;
     position: relative;
@@ -49,5 +49,7 @@ a{
     right: 50px;
 }
 p{
-    color: #828282;
+    background-color: yellow;
+    height: 300px;
+    overflow: auto;
 }
