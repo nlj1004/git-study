@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    color: #fefefe;
+    background-color: #181818;
+    background-image: url(https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.box{
+    width: 100%;
+    margin: 0;
+    font-size: 6em;
+    text-align: center;
+    background-color: hsla(165, 97%, 31%, 0.5);
+}
